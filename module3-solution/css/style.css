@@ -1,0 +1,9 @@
+.big-section {
+  height: 1000px;
+  background-color: #ddd;
+  padding: 20px;
+}
+
+#menu {
+  background-color: #ccc;
+}
